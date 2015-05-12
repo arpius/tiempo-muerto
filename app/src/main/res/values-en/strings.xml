@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiempo muerto</string>
+
+    <string name="action_info">Information</string>
+    <string name="action_limpiar">Clean screen</string>
+    <string name="autor">\t\tApp was developed by Aritz Piñero.\n\t\tBasketball court was designed by Freepik.</string>
+</resources>

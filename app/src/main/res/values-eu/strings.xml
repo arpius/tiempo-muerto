@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiempo muerto</string>
+
+    <string name="action_info">Informazioa</string>
+    <string name="action_limpiar">Pantaila garbitu</string>
+
+    <string name="autor">\t\tAritz Piñero-k garatutako aplikazioa.\n\t\tSaskibaloi kantxa Freepik-en diseinua da.</string>
+</resources>
